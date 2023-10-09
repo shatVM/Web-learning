@@ -1,0 +1,26 @@
+*{
+    font-size: 150px;
+}
+body {
+    background-color: rgb(111, 128, 128);
+    /* height: 100vh; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.container{
+    background-color: #63e658;
+    padding: 10px;   
+    display: flex;
+    flex-direction: row;
+    gap: 100px;    
+}
+
+.content{
+    /* margin: 100px; */
+    border: 1px solid red;
+    background-color: #fff;
+    padding: 10px; 
+}

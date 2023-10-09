@@ -1,0 +1,11 @@
+*{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.content{
+    background-color: #b51c1c;
+    border: 1px solid black;
+    padding: 50px;
+    margin: 50px;
+}
